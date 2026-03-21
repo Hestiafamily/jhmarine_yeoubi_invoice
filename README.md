@@ -1,6 +1,6 @@
 실행 방법
 
-1. https://www.python.org/downloads/ 검색 후 python 다운로드 후 app 파일 실행. 
+1. exe 파일 실행
 2. 빈칸 채워넣은 후 전체(선박별) 생성 클릭. = 이게 편함
 3. 결과는 output 폴더에 저장
 4. rate 엑셀에서 대리점 요율 & 대리점 명 변경 가능. 변경 시 app 파일 재실행.
